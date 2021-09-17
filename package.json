@@ -1,0 +1,33 @@
+{
+  "name": "jsnpm",
+  "version": "1.0.0",
+  "description": "Build a package for Node",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebansant/jsnpm.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "package"
+  ],
+  "author": "Esteban Santiago <estebansant30@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estebansant/jsnpm/issues"
+  },
+  "homepage": "https://github.com/estebansant/jsnpm#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "date-fns": "^2.23.0"
+  },
+  "optionalDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
